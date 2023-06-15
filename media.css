@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico&display=swap%27);
+
+html {
+    font-family: "Poppins", sans-serif;
+  
+  
+  
+  
+   background-color: #f3bcff;
+  
+  
+   
+  
+  }
+
+body {font: 14pt Arial;}
+h1, h2, h3 {font-family:'Pacifico', cursive; font-weight: Arial ;}
+button{font-size: 16pt; padding: 40px;}
